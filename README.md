@@ -58,7 +58,7 @@ ng new <proyect-name>
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/Diplomatura-Full-Stack-Developer/
+git clone https://github.com/Diplomatura-Full-Stack-Developer/Angular-M1-T1
 
 ```
 
