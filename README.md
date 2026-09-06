@@ -30,7 +30,7 @@ ng new <proyect-name>
  <tbody>  
   <tr>
    <td>
-    <img style="width: 50%;" src="./src/assets/structure_folders.png" alt="Estructura inicial de un proyecto de Angular iniciado con el CLI">
+    <img style="width: 100%;" src="./src/assets/structure_folders.png" alt="Estructura inicial de un proyecto de Angular iniciado con el CLI">
    </td>
    <td>
     <ul>
