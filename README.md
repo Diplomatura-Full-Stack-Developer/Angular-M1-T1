@@ -6,7 +6,9 @@
 
 ### Unidad 1: Conociendo Angular
 
-### Consigna: Mi primera app en Angular
+### Tarea 1: Mi primera app en Angular.
+
+### Objetivos:
 
 Comprender el flujo básico de trabajo en Angular, desde la creación de un proyecto hasta la visualización de datos en la vista,
 considerando su estructura y comandos básicos de Angular CLI.
